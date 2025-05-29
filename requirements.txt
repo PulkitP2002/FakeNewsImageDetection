@@ -1,0 +1,9 @@
+streamlit
+Pillow
+torch
+torchvision
+transformers
+sentence-transformers
+easyocr
+requests
+python-dotenv
